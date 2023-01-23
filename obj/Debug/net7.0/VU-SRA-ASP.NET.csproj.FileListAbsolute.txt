@@ -29,3 +29,8 @@ E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\obj\Debug\net7.0\refin
 E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\obj\Debug\net7.0\VU-SRA-ASP.NET.pdb
 E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\obj\Debug\net7.0\VU-SRA-ASP.NET.genruntimeconfig.cache
 E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\obj\Debug\net7.0\ref\VU-SRA-ASP.NET.dll
+E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Assignments\Sithara\03 C# crud\VU-SRA-ASP.NET\obj\Debug\net7.0\VU-SRA-ASP.NET.csproj.CopyComplete
